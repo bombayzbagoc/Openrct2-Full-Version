@@ -243,4 +243,4 @@ This repository serves as the official landing page for OpenRCT2. The software i
 **Get the most recent version of OpenRCT2 today!**
 
 ---
-**Last updated:** 2026-09-12 01:37:56 UTC
+**Last updated:** 2026-09-12 06:33:32 UTC
